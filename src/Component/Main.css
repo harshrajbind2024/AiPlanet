@@ -1,0 +1,113 @@
+.main{
+    background: #003145;
+    width: 1442px;
+    height: 625px;
+    top: 4px;
+    left: -1px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.a{
+    width: 705px;
+height: 348px;
+top: 188px;
+left: 143px;
+/* gap: 0px;
+opacity: 0px; */
+
+}
+.line{
+    width: 9.71px;
+height: 115.91px;
+top: 188px;
+left: 143px;
+gap: 0px;
+opacity: 0px;
+background: rgba(255, 206, 92, 1);
+
+}
+.b{
+   
+    width: 643px;
+    height: 346px;
+    top: 190px;
+    left: 205px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+
+.c{
+    width: 643px;
+height: 262px;
+top: 190px;
+left: 205px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.h1{
+    width: 643px;
+height: 112px;
+top: 190px;
+left: 205px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 56px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+.p{
+    width: 531px;
+height: 112px;
+top: 340px;
+left: 205px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+text-align: left;
+color: #ECECEC;
+
+}
+.btt{
+    width: 198px;
+    height: 47px;
+    top: 489px;
+    left: 205px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+    background: #FFFFFF;
+    /* // On click
+    // Navigate to: "Admin";
+    // Animate: Instant; */
+    animation-duration: 0ms;
+    
+}
+
+.side{
+    /* background: url(".png"); */
+background-size: cover;
+width: 242px;
+height: 294px;
+top: 170px;
+left: 1050.34px;
+gap: 0px;
+opacity: 0px;
+angle: -21.41 deg;
+
+
+
+}
